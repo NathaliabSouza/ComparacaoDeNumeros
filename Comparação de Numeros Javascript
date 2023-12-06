@@ -1,0 +1,14 @@
+/*Desafio3: Comparação de números
+	- Crie um programa que compara números
+	- Exibir uma mensagem se o primeiro número é maior, menor ou igual ao segundo
+	- Utilizar variáveis e if/else*/
+
+    let n1 = 5;
+    let n2 = 11;
+    
+  function comparaNumeros (num1, num2){
+    if (n1 > n2) {
+        console.log(`O numero ${n1} é maior que o ${num2}`);
+        else if (n1 < n2)
+    }
+  }
